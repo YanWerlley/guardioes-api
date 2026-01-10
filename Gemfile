@@ -26,7 +26,7 @@ gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
 gem 'puma', '~> 4.3'
 gem "roo", "~> 2.8.0"
-gem 'roo-xls'
+gem 'roo-xls', '>= 2.0.0'
 gem 'cancancan'
 gem 'kaminari'
 gem 'pager_api'
